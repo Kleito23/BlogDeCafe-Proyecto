@@ -178,7 +178,7 @@ img{
     margin-top: 4rem;
 }
 /* Nosotros */
-.nosotros__contenido{
+.sobre-nosotros{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
